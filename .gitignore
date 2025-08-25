@@ -1,2 +1,14 @@
 log/
 *.log
+.vscode/browse.vc.db
+.vscode/browse.vc.db-shm
+.vscode/browse.vc.db-wal
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/settings.json
+msg_convertor/__pycache__/__init__.cpython-310.pyc
+msg_convertor/__pycache__/manus2jointstates.cpython-310.pyc
+resource/msg_convertor
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
